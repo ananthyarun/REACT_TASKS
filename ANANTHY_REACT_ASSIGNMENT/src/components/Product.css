@@ -1,0 +1,33 @@
+.table_padding
+{
+    padding: 20px;
+    margin: 15px;
+}
+.addButton
+{
+    float: right;
+    margin-bottom: 20px;
+}
+#page-numbers {
+    list-style: none;
+    display: flex;
+  }
+  #page-numbers > li {
+     color:black;
+    cursor: pointer;
+    font-size: 20px;
+    margin-right: 20px;
+  }
+.table_header
+{
+    color:#000080;
+    font-size: 15px;
+}
+.paginationStyle{
+    margin-right: 10px;
+}
+img
+{
+    height: 15px;
+    width:15px;
+}
